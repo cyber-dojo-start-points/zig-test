@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/zig-test.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/zig-test)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="Zig, test"
 ### image_name="[cyberdojofoundation/zig_test](https://hub.docker.com/repository/docker/cyberdojofoundation/zig_test)"
