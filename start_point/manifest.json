@@ -1,22 +1,23 @@
 {
-  "display_name": "Zig, test",
+  "display_name": "Zig 0.16.0, test",
   "language": [
     "Zig",
-    ""
+    "0.16.0"
   ],
   "test_framework": [
     "test",
     ""
   ],
-  "image_name": "cyberdojofoundation/zig_test:274f9c3",
+  "image_name": "ghcr.io/cyber-dojo-languages/zig_test:0ed4757",
   "visible_filenames": [
-    "test-hiker.zig",
+    "hiker_test.zig",
     "hiker.zig",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".zig"
   ],
-  "max_seconds": 10,
+  "max_seconds": 15,
   "tab_size": 4
 }
