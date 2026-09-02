@@ -8,7 +8,7 @@
     "test",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/zig_test:0ed4757",
+  "image_name": "ghcr.io/cyber-dojo-languages/zig_test:1eefbd3",
   "visible_filenames": [
     "hiker_test.zig",
     "hiker.zig",
