@@ -1,14 +1,14 @@
 {
-  "display_name": "Zig 0.16.0, test",
+  "display_name": "Zig 0.16, test",
   "language": [
     "Zig",
-    "0.16.0"
+    "0.16"
   ],
   "test_framework": [
     "test",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/zig_test:1eefbd3",
+  "image_name": "ghcr.io/cyber-dojo-languages/zig_test:84be5ed",
   "visible_filenames": [
     "hiker_test.zig",
     "hiker.zig",
