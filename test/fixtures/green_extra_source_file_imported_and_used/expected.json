@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 6,
+  "truncated": false,
+  "match_counts": {
+    "hiker_test\\.test\\.the answer to life the universe and everything\\.\\.\\.OK$": 1,
+    "^All 1 tests passed\\.$": 1
+  }
+}

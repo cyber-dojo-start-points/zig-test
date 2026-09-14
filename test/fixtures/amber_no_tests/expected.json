@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "matches": [ "^error: failed to check cache: " ],
+  "match_counts": {
+    "file_hash FileNotFound$": 1,
+    "^All [0-9]+ tests passed\\.$": 0
+  }
+}

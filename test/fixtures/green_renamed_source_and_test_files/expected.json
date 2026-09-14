@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 6,
+  "truncated": false,
+  "match_counts": {
+    "fizz_buzz_test\\.test\\.the answer to life the universe and everything\\.\\.\\.OK$": 1,
+    "hiker": 0,
+    "^All 1 tests passed\\.$": 1
+  }
+}

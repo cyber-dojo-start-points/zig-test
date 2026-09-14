@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 8,
+  "truncated": false,
+  "match_counts": {
+    "tests\\.answer_size_test\\.test\\.the answer is not the question\\.\\.\\.OK$": 1,
+    "\\.\\.\\.OK$": 3,
+    "^All 3 tests passed\\.$": 1
+  }
+}

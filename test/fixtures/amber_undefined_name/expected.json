@@ -1,0 +1,7 @@
+{
+  "matches": [ "error: root source file struct 'hiker' has no member named 'ansewr'$" ],
+  "match_counts": {
+    "^All [0-9]+ tests passed\\.$": 0,
+    "\\.\\.\\.OK$": 0
+  }
+}

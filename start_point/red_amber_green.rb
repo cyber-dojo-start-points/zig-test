@@ -11,8 +11,10 @@ lambda { |stdout,stderr,status|
   # so the "error: the following test command failed" line trailing a
   # genuine test failure does not count as one.
   return :amber if /^(\S+:\d+:\d+: )?error:/.match(output)
-  # All passed, or passed and skipped with nothing failing.
-  return :green if /^All \d+ tests? passed\./.match(output)
-  return :green if /^\d+ passed; \d+ skipped; 0 failed\./.match(output)
+  # All passed, or passed and skipped with nothing failing. A file whose test
+  # blocks have been deleted still builds and still says all its tests passed,
+  # so the count has to be one at least: zero tests passing proves nothing.
+  return :green if /^All [1-9]\d* tests? passed\./.match(output)
+  return :green if /^[1-9]\d* passed; \d+ skipped; 0 failed\./.match(output)
   return :amber
 }

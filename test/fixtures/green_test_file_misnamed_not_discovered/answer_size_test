@@ -1,0 +1,10 @@
+// The .zig extension was left off, so the *_test.zig glob misses this file,
+// and nothing @imports it either. The assertion is one that would fail, so
+// that a green says it really was never reached rather than that it ran and
+// passed.
+const std = @import("std");
+const hiker = @import("hiker.zig");
+
+test "the answer is the question" {
+    try std.testing.expectEqual(6 * 9, hiker.answer());
+}

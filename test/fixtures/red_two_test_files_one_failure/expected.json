@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "answer_size_test\\.test\\.the answer is not the question\\.\\.\\.OK$": 1,
+    "^All 1 tests passed\\.$": 1,
+    "hiker_test\\.test\\.the answer is the question\\.\\.\\.expected 54, found 42$": 1,
+    "^1 passed; 0 skipped; 1 failed\\.$": 1
+  }
+}

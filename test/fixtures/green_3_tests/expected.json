@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 8,
+  "truncated": false,
+  "match_counts": {
+    "\\.\\.\\.OK$": 3,
+    "^All 3 tests passed\\.$": 1
+  }
+}

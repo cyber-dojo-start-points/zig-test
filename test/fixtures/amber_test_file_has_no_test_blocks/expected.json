@@ -1,0 +1,7 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^All 0 tests passed\\.$": 1,
+    "\\.\\.\\.OK$": 0
+  }
+}

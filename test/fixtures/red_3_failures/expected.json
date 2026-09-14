@@ -1,0 +1,10 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "expected 42, found 54$": 1,
+    "^FAIL \\(TestExpectedEqual\\)$": 3,
+    "\\.\\.\\.OK$": 0,
+    "^0 passed; 0 skipped; 3 failed\\.$": 1,
+    "^All [0-9]+ tests passed\\.$": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "hiker\\.test\\.the answer is the question\\.\\.\\.expected 54, found 42$": 1,
+    "hiker_test\\.test\\.the answer to life the universe and everything\\.\\.\\.OK$": 1,
+    "^1 passed; 0 skipped; 1 failed\\.$": 1,
+    "^All [0-9]+ tests passed\\.$": 0
+  }
+}

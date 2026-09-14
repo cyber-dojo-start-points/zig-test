@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 10,
+  "matches": [ "^hiker\\.zig:2:[0-9]+: error: expected ';' after statement$" ],
+  "match_counts": {
+    "^All [0-9]+ tests passed\\.$": 0
+  }
+}

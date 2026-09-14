@@ -1,0 +1,9 @@
+{
+  "truncated": true,
+  "matches": [ "^debug: answer was called, i is 1$" ],
+  "match_counts": {
+    "^FAIL \\(TestExpectedEqual\\)$": 0,
+    "passed; [0-9]+ skipped; [0-9]+ failed\\.$": 0,
+    "^All [0-9]+ tests passed\\.$": 0
+  }
+}

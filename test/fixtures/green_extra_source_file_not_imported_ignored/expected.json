@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 6,
+  "truncated": false,
+  "match_counts": {
+    "checksum": 0,
+    "error:": 0,
+    "^All 1 tests passed\\.$": 1
+  }
+}

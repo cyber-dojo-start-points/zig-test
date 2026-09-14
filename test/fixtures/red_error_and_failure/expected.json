@@ -1,0 +1,10 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^[0-9]+/2 hiker_test\\.test\\.": 1,
+    "thread [0-9]+ panic: integer overflow$": 1,
+    "^error: the following test command terminated with signal ": 1,
+    "expected 42, found 54$": 0,
+    "\\.\\.\\.OK$": 0
+  }
+}
