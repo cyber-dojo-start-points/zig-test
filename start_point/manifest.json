@@ -1,14 +1,14 @@
 {
-  "display_name": "Zig 0.17.0, test",
+  "display_name": "Zig 0.17.1, test",
   "language": [
     "Zig",
-    "0.17.0"
+    "0.17.1"
   ],
   "test_framework": [
     "test",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/zig_test:af9debe@sha256:99cfd320d5df919806d6a774fc0c8be5e82c1b42b477abb2b4e64723c2f983cc",
+  "image_name": "ghcr.io/cyber-dojo-languages/zig_test:ae48d4c@sha256:c7851e254834bf6316338df45d2aaa7768803b9b8dadfcb57abf03ca352a07e7",
   "visible_filenames": [
     "hiker_test.zig",
     "hiker.zig",
